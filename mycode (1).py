@@ -33,9 +33,9 @@ while True:
       counter += 1
       
       
-  if counter == 0:
+  if counter == sad:
     
-      output = "Sorry I don't really understand. Please use different words?"
+      output = "dont be sad every cloud has a silver lining"
 
   elif counter == 1:
     
