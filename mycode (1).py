@@ -31,7 +31,10 @@ while True:
       feelings_list.append("scared")
       encouragement_list.append("you are not alone")
       counter += 1
-      
+      if each_word == "confused":
+      feelings_list.append("confused")
+      encouragement_list.append("everything will work out eventually, stay positive!")
+      counter += 1
       
   if counter == sad:
     
