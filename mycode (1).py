@@ -40,6 +40,10 @@ while True:
       encouragement_list.append("bad times would pass")
       counter += 1
   if counter == sad:
+    if each_word == "stressed":
+      feelings_list.append("stressed")
+      encouragement_list.append("take a deep breath")
+      counter += 1
     
       output = "dont be sad every cloud has a silver lining"
 
